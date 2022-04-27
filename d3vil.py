@@ -207,7 +207,7 @@ def token_check():
 
 	except IOError:
 
-		print("\033[91;1m[!] TOKEN INVALID"
+		print("\033[91;1m[!] TOKEN INVALID")
 
 		os.system('rm -rf vau_token.txt')
 
