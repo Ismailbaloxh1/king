@@ -1007,7 +1007,7 @@ def crack_select():
 
 		print("")
 
-                filelist = raw_input('\033[92;1m  INPUT FILE: ')
+                filelist = raw_input('\033[92;1m  INPUT FILE:')
 
 		try:
 
